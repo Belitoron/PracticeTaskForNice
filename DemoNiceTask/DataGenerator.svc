@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DemoNiceTask.DataGenerator" CodeBehind="DataGenerator.svc.cs" %>
